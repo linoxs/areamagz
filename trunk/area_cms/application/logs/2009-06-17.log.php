@@ -1,0 +1,17 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2009-06-17 08:14:33 +01:00 --- error: Uncaught PHP Error: Missing argument 1 for Database_Core::where(), called in D:\kohana_system\libraries\ORM.php on line 231 and defined in file D:/kohana_system/libraries/Database.php on line 462
+2009-06-17 08:48:56 +01:00 --- error: Uncaught Kohana_404_Exception: The page you requested, photo_gallery/create_album, could not be found. in file D:/kohana_system/core/Kohana.php on line 841
+2009-06-17 15:29:24 +01:00 --- error: Uncaught PHP Error: mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in file D:/area_cms/application/controllers/photo_gallery.php on line 84
+2009-06-17 15:30:14 +01:00 --- error: Uncaught PHP Error: mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in file D:/area_cms/application/controllers/photo_gallery.php on line 84
+2009-06-17 15:30:24 +01:00 --- error: Uncaught PHP Error: mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in file D:/area_cms/application/controllers/photo_gallery.php on line 84
+2009-06-17 15:30:46 +01:00 --- error: Uncaught PHP Error: mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in file D:/area_cms/application/controllers/photo_gallery.php on line 84
+2009-06-17 15:31:26 +01:00 --- error: Uncaught PHP Error: Argument 1 passed to upload_Core::required() must be an array, null given in file D:/kohana_system/helpers/upload.php on line 98
+2009-06-17 15:32:20 +01:00 --- error: Uncaught PHP Error: Argument 1 passed to upload_Core::required() must be an array, null given in file D:/kohana_system/helpers/upload.php on line 98
+2009-06-17 15:39:52 +01:00 --- error: Uncaught PHP Error: Illegal offset type in file D:/kohana_system/libraries/Validation.php on line 375
+2009-06-17 16:06:27 +01:00 --- error: Uncaught PHP Error: mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in file D:/area_cms/application/controllers/photo_gallery.php on line 96
+2009-06-17 16:10:32 +01:00 --- error: Uncaught PHP Error: mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in file D:/area_cms/application/controllers/photo_gallery.php on line 100
+2009-06-17 16:21:20 +01:00 --- error: Uncaught Kohana_Exception: The specified image, , was not found. Please verify that images exist by using file_exists() before manipulating them. in file D:/kohana_system/libraries/Image.php on line 75
+2009-06-17 16:21:52 +01:00 --- error: Uncaught PHP Error: mkdir() [<a href='function.mkdir'>function.mkdir</a>]: File exists in file D:/area_cms/application/controllers/photo_gallery.php on line 96
+2009-06-17 16:28:33 +01:00 --- error: Uncaught Kohana_404_Exception: The page you requested, gallery_photo/create_album, could not be found. in file D:/kohana_system/core/Kohana.php on line 841
+2009-06-17 16:33:05 +01:00 --- error: Uncaught PHP Error: Object of class Mysql_Result could not be converted to string in file D:/kohana_system/libraries/drivers/Database.php on line 324
